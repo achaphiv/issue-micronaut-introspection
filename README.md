@@ -36,6 +36,8 @@ Try to run with:
 ./mvnw test
 ```
 
+It will fail with similar exceptions to `gradle`.
+
 ## Eclipse
 
 It works.
