@@ -38,6 +38,7 @@ dependencies {
     testCompile "junit:junit:4.12"
     testCompile "io.micronaut:micronaut-inject-java"
     testCompile "org.hamcrest:hamcrest-all:1.3"
+    testCompile "io.micronaut:micronaut-inject-java"
 }
 
 shadowJar {
