@@ -1,3 +1,6 @@
 micronaut:
     application:
         name: micronaut-introspection-issue
+
+jackson:
+    bean-introspection-module: true
