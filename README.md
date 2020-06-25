@@ -1,5 +1,7 @@
 # Bug
 
+https://github.com/micronaut-projects/micronaut-core/issues/1566
+
 ## Gradle
 
 Try to run with:
